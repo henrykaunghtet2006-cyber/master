@@ -1,6 +1,6 @@
-package org.example;
+package com.napier.sem;
 
-public class app {
+public class App {
     public static void main(String[] args)
     {
         System.out.println("Welcome form IMC");
