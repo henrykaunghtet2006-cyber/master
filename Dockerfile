@@ -1,4 +1,4 @@
-FROM amazoncorretto:17
+FROM eclipse-temurin:26
 
 COPY ./target/seMethods-1.0-SNAPSHOT-jar-with-dependencies.jar /tmp
 
