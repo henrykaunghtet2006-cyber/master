@@ -1,6 +1,6 @@
 FROM eclipse-temurin:26
 
-COPY ./target/seMethods-0.1.0.2.jar /tmp/app.jar
+COPY ./target/seMethods-1.0-SNAPSHOT-jar-with-dependencies.jar /tmp/app.jar
 
 WORKDIR /tmp
 
